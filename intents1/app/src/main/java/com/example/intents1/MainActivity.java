@@ -6,6 +6,7 @@ import android.os.Bundle;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 
+import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
@@ -23,6 +24,9 @@ public class MainActivity extends AppCompatActivity {
     Button btnAct2,btnAct3;
     TextView tvresults;
 
+    final int ACTIVITY3 = 3;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -37,17 +41,25 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
+
                 if(etname.getText().toString().isEmpty()) {
                     Toast.makeText(MainActivity.this, "please fill all feilds",Toast.LENGTH_SHORT).show();
                 }
 
-                else {
 
+                else
+                    {
                     String name = etname.getText().toString().trim();
-                }
+
+                    Intent intent = new Intent(MainActivity.this,com.example.intents1.Main2Activity.class);
+
+                    intent.putExtra("name", name);
+                    startActivity(intent); }
 
 
-            //    Intent intent = new Intent(MainActivity.this,);
+
+
+
 
             }
         });
@@ -58,11 +70,42 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
+                Intent intent = new Intent(MainActivity.this,com.example.intents1.Main3Activity.class);
+
+                startActivityForResult(intent,ACTIVITY3);
+
             }
         });
 
 
 
-
            }
+
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+
+        if (requestCode==ACTIVITY3){
+
+            if (resultCode==RESULT_OK){
+                tvresults.setText(data.getStringExtra("surname"));
+
+            }
+
+            if (resultCode==RESULT_CANCELED){
+            tvresults.setText("you have canceled the operation!");
+
+        }
+
+
+        }
+
+
+    }
+
+
+
+
+
 }

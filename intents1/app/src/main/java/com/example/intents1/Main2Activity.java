@@ -15,5 +15,11 @@ public class Main2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
 
         tvwelcome = findViewById(R.id.tvwelcome);
+
+        String name = getIntent().getStringExtra("name");
+
+        tvwelcome.setText(name + ", welcome to Activity 2!");
+
+
     }
 }

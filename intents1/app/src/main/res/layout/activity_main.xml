@@ -19,7 +19,7 @@
         android:id="@+id/btnAct2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Activity 2" />
+        android:text="Activity 2"/>
 
     <Button
         android:id="@+id/btnAct3"
