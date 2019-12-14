@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">South African ID APP</string>
+    <string name="hint_id">please enter id number</string>
+    <string name="hint_id_2">please enter your id number</string>
+    <string name="submit">SUBMIT</string>
+    <string name="dob">DateOfBirth :</string>
+    <string name="gender">Gender :</string>
+    <string name="nationality">Nationality :</string>
+    <string name="foreign">Foreigner</string>
+    <string name="sa_citizen">South Africa Citizen</string>
+    <string name="female">Female</string>
+</resources>
