@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2068dd0-d307-412c-a518-e2e6631a2324" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/Leicester-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/drawable/Leicester_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/drawable/Liverpool_FC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/drawable/fulham.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/drawable/lcfc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/drawable/man united.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/drawable/west Ham.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-anydpi-v26/Leicester_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-hdpi/Leicester_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-hdpi/Leicester_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-mdpi/Leicester_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-mdpi/Leicester_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-xhdpi/Leicester_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-xhdpi/Leicester_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-xxhdpi/Leicester_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-xxhdpi/Leicester_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-xxxhdpi/Leicester_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-xxxhdpi/Leicester_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../CustomListView/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Lab7-8/app/src/main/res/drawable-hdpi/lcfc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Lab7-8/app/src/main/res/drawable-mdpi/lcfc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Lab7-8/app/src/main/res/drawable-xhdpi/lcfc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Lab7-8/app/src/main/res/drawable-xxhdpi/lcfc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Lab7-8/app/src/main/res/drawable-xxxhdpi/lcfc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Lab7-8/app/src/main/res/values-it/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Orientation/app/src/main/res/layout-land/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../SQlite/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../SQlite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../SQlite/app/src/main/java/com/example/sqlite/DataBaseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../Sysbook/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/Fulham-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/Leicester-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/Liverpool-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/WestHam-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/info-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/manchester-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/drawable/Fulham_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/drawable/Leicester_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/drawable/Liverpool_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/drawable/WestHam_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/drawable/info_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/drawable/manchester_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/layout/row_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-anydpi-v26/Fulham.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-anydpi-v26/Fulham_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-anydpi-v26/Leicester.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-anydpi-v26/Leicester_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-anydpi-v26/Liverpool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-anydpi-v26/Liverpool_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-anydpi-v26/WestHam.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-anydpi-v26/WestHam_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-anydpi-v26/info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-anydpi-v26/info_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-anydpi-v26/manchester.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-anydpi-v26/manchester_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/Fulham.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/Fulham_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/Fulham_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/Leicester.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/Leicester_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/Leicester_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/Liverpool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/Liverpool_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/Liverpool_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/WestHam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/WestHam_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/WestHam_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/info_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/info_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/manchester.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/manchester_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-hdpi/manchester_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/Fulham.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/Fulham_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/Fulham_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/Leicester.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/Leicester_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/Leicester_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/Liverpool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/Liverpool_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/Liverpool_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/WestHam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/WestHam_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/WestHam_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/info_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/info_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/manchester.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/manchester_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-mdpi/manchester_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/Fulham.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/Fulham_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/Fulham_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/Leicester.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/Leicester_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/Leicester_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/Liverpool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/Liverpool_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/Liverpool_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/WestHam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/WestHam_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/WestHam_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/info_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/info_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/manchester.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/manchester_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xhdpi/manchester_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/Fulham.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/Fulham_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/Fulham_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/Leicester.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/Leicester_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/Leicester_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/Liverpool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/Liverpool_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/Liverpool_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/WestHam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/WestHam_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/WestHam_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/info_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/info_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/manchester.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/manchester_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxhdpi/manchester_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/Fulham.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/Fulham_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/Fulham_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/Leicester.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/Leicester_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/Leicester_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/Liverpool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/Liverpool_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/Liverpool_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/WestHam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/WestHam_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/WestHam_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/info_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/info_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/manchester.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/manchester_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../TheCustomListView/app/src/main/res/mipmap-xxxhdpi/manchester_round.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="231" />
+    <option name="y" value="242" />
+    <option name="width" value="779" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="explicitintents" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="G:\Android Projects\intents1\app\src\main\java\com\example\explicitintents" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="explicitintents" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="G:\Android Projects\intents1\app\src\main\java\com\example\explicitintents" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="explicitintents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="explicitintents" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2068dd0-d307-412c-a518-e2e6631a2324" name="Default Changelist" comment="" />
+      <created>1577723705994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577723705994</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32953104" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

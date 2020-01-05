@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sqlite</string>
+    <string name="hint_name">enter name</string>
+    <string name="hint_cell">enter phone number</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_show_data">Show</string>
+    <string name="btn_edit_data">Edit data</string>
+    <string name="btn_delete_data">Delete</string>
+</resources>
